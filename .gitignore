@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local Config ###
+*.properties
+*.yml
+*.yaml
+!application.yml
+**/application-*.yml
